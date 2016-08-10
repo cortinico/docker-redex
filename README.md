@@ -1,5 +1,6 @@
 # ReDex Docker Container 
-[![Docker Pulls](https://img.shields.io/docker/pulls/cortinico/redex.svg)](https://hub.docker.com/r/cortinico/redex/) [![Docker Stars](https://img.shields.io/docker/stars/cortinico/redex.svg)](https://hub.docker.com/r/cortinico/redex/) [![Docker Size](https://img.shields.io/imagelayers/image-size/cortinico/redex/latest.svg)](https://imagelayers.io/?images=cortinico/redex:latest)
+[![Docker Pulls](https://img.shields.io/docker/pulls/cortinico/redex.svg)](https://hub.docker.com/r/cortinico/redex/) [![Docker Stars](https://img.shields.io/docker/stars/cortinico/redex.svg)](https://hub.docker.com/r/cortinico/redex/) 
+[![](https://images.microbadger.com/badges/image/cortinico/redex.svg)](https://microbadger.com/images/cortinico/redex "Get your own image badge on microbadger.com")
 
 ![Redex+Docker](http://i.imgur.com/5CnDpdA.png)
 
